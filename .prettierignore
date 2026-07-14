@@ -1,0 +1,6 @@
+.claude/
+CLAUDE.md
+requirements.md
+package-lock.json
+dist/
+node_modules/
