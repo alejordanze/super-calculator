@@ -1,6 +1,6 @@
 ---
 name: code-reviewer
-description: use this agent before comitting any code
+description: use this agent before committing any code
 model: sonnet
 color: yellow
 memory: project
